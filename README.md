@@ -18,8 +18,8 @@ infrastructure Automation.<br>Linux enthusiast <br>Golang <br>Infrastructure Aut
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+###  Random persona
+<img src="https://assets2.ignimgs.com/2016/08/29/mr-robotjpg-42cabf.jpg" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/wolfsoldier47) 
