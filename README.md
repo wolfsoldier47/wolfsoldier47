@@ -1,5 +1,5 @@
 # 💫 About Me:
-infrastructure Automation.<br>Linux and python<br>Golang and rust<br>Infrastructure Automation & python Dev. Linux and network security engineer ! currently learning golang. 
+infrastructure Automation.<br>Linux enthusiast <br>Python and Golang <br>Infrastructure Automation & python Dev. Linux and network security engineer ! currently learning golang. 
 
 
 # 💻 Tech Stack:
