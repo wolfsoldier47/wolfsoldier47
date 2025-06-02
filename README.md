@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Backend Engineer and infrastructure Automation.<br>Backend Engineering,Linux enthusiast Infrastructure Automation & golang & python Dev! <br>
+Backend Engineer and infrastructure Automation.<br>Backend Engineering,Linux enthusiast Infrastructure Automation & golang,Rust & python Dev! <br>
 
 
 ## 🌐 Socials:
